@@ -72,4 +72,4 @@ Having only a high school education is the single strongest predictor of denial,
 
 For US workers who took on significant student debt to achieve the credentials the program rewards, seeing those same credentials approved at lower wage levels for foreign applicants raises questions about whether the prevailing wage protection is doing what it's supposed to do.
 
-The stated purpose of the program is to certify foreign workers only where equivalent US workers aren't available, at wages that don't undercut the market. Beyond education level, the data doesn't clearly show that alignment. That may reflect limitations in the available features, or it may reflect something worth examining in the program itself. Either way, it's a question the model surfaces but can't settle.
+The stated purpose of the program is to certify foreign workers only where equivalent US workers aren't available, at wages that don't undercut the market. Beyond education level, the data doesn't clearly show that alignment. That may reflect limitations in the available features, or it may reflect something worth examining in the program itself.
